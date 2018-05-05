@@ -1,1 +1,1 @@
-# HighlightSearchText
+# HighlightSearchText in Angular
